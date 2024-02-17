@@ -1,1 +1,4 @@
 this is our new friend, Fred!
+
+
+let's say hi to Fred, everyone!
